@@ -156,3 +156,5 @@ Phân tích:
 // obj?.prop       → Truy cập an toàn (optional chaining)
 // func()          → Gọi hàm (function call)
 // new Class()     → Tạo đối tượng mới (object instantiation)
+
+// 3. Toán tử tăng giảm (Increment & Decrement)
