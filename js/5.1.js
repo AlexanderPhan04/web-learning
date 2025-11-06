@@ -20,9 +20,9 @@ const variableName;
 
 /*
 cú pháp khởi tạo biến
-var variableName = 10;
-const variableName = 1;
-let variableName = "Hello";
+var variableName = value;
+const variableName = value;
+let variableName = "value";
 */
 
 // xuất ra giá trị của biến
